@@ -1,3 +1,7 @@
+# GifExpertApp
+
+Es un app para cosnultar Gifs mediante un input.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
