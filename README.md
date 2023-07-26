@@ -1,6 +1,6 @@
 # GifExpertApp
 
-Es un app para cosnultar Gifs mediante un input.
+Es un app para consultar Gifs mediante un input pasando un parametro a un endpoint.
 
 # React + Vite
 
